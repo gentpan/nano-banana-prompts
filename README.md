@@ -15,27 +15,56 @@
 - **中文版本**：适合中文用户理解和使用
 - **英文版本**：保留原始英文提示词，或提供英文翻译
 
-### 数据结构
+### 目录结构
 
-- `data/imgedify-prompts.jsonl`：包含所有提示词的 JSONL 格式数据（仅文本，无图像）
-  - 每行一条提示词记录
-  - 包含 `prompt_zh`（中文）和 `prompt_en`（英文）字段
-  - 部分提示词标记为 `needs_translation: true`，表示需要进一步完善翻译
+```
+nano-banana-prompts/
+├── data/
+│   └── imgedify-prompts.jsonl    # 完整语料库（9,199 条）
+├── prompts/                       # 精选提示词（按分类）
+│   ├── 人像/                      # 人像摄影（50 个）
+│   ├── 产品/                      # 产品摄影（50 个）
+│   ├── 风景/                      # 风景摄影（50 个）
+│   ├── 角色/                      # 角色设计（50 个）
+│   ├── 建筑/                      # 建筑摄影（50 个）
+│   ├── 食物/                      # 食物摄影（50 个）
+│   ├── 抽象/                      # 抽象艺术（50 个）
+│   └── 其它/                      # 其他类型（50 个）
+├── scripts/
+│   └── generate_images.py        # 图像生成脚本（存根）
+├── SCHEMA.md                      # 数据结构规范
+├── README.md
+├── CONTRIBUTING.md
+├── sources.md
+└── LICENSE
+```
 
-- `prompts/`：精选 40 个高质量提示词的双语 Markdown 文件
-  - 人像摄影（Portrait）
-  - 产品摄影（Product）
-  - 风景摄影（Landscape）
-  - 通用场景（General）
+### 数据格式
+
+- **JSONL 语料库** (`data/imgedify-prompts.jsonl`)：包含所有 9,199 条提示词
+  - 每行一个 JSON 对象，包含完整元数据
+  - 中英双语字段：`prompt_zh` 和 `prompt_en`
+  
+- **精选 Markdown** (`prompts/<分类>/NNNN.md`)：400 个精选双语提示词
+  - 按 8 个分类组织
+  - 每个分类 50 个精选示例
+  - 4 位数字编号（0001-0050）
+  - YAML 元数据 + 代码块包裹的双语提示词
 
 ## 📊 数据统计
 
-- **总提示词数**：9,199 条
-- **精选示例**：40 个双语 Markdown 文件
+- **总提示词数**：9,199 条（完整语料库）
+- **精选示例**：400 个双语 Markdown 文件
+  - 人像：50 个 | 产品：50 个 | 风景：50 个 | 角色：50 个
+  - 建筑：50 个 | 食物：50 个 | 抽象：50 个 | 其它：50 个
 - **主要来源**：ImgEdify（8,485 条）+ 其他社区贡献（714 条）
 - **已过滤**：NSFW 内容，重复提示词
 
-## 📝 贡献指南
+## 📝 数据结构规范
+
+查看 [SCHEMA.md](SCHEMA.md) 了解完整的数据结构和文件格式规范。
+
+## 🤝 贡献指南
 
 查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解如何贡献新的提示词。
 
@@ -67,7 +96,15 @@
 
 ### 1. 浏览精选提示词
 
-访问 `prompts/` 目录，查看 40 个精心挑选的双语提示词示例。
+访问 `prompts/<分类>/` 目录，查看 400 个精心挑选的双语提示词：
+
+```bash
+# 浏览人像摄影提示词
+ls prompts/人像/
+
+# 查看第一个产品摄影提示词
+cat prompts/产品/0001.md
+```
 
 ### 2. 使用 JSONL 数据
 
@@ -85,6 +122,18 @@ cat data/imgedify-prompts.jsonl | jq -r '.category' | sort | uniq -c
 ### 3. 直接使用提示词
 
 复制你喜欢的提示词，粘贴到 Google Gemini 的图像生成功能中即可使用。
+
+### 4. 生成图像（TODO）
+
+```bash
+# 设置 API 密钥
+export GEMINI_API_KEY='your-api-key'
+
+# 运行图像生成脚本
+python scripts/generate_images.py
+```
+
+*注意：图像生成功能当前为存根，等待实现。*
 
 ## 🔗 相关链接
 
