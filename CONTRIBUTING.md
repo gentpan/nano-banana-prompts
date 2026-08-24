@@ -2,6 +2,8 @@
 
 感谢你对 Nano Banana Prompts 项目的关注！
 
+**管理者 / 整理者**: Yep ([gentpan](https://github.com/gentpan))
+
 ## 数据格式
 
 ### JSONL 记录结构

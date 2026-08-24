@@ -2,6 +2,8 @@
 
 本文档定义了 `nano-banana-prompts` 仓库的数据结构和文件组织规范。
 
+**管理者 / 整理者**: Yep ([gentpan](https://github.com/gentpan))
+
 ## 目录结构
 
 ```

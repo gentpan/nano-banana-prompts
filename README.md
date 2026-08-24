@@ -8,6 +8,8 @@
 
 本项目专注于 **Google Gemini 的图像生成功能**，不包含 GPT Image 2 或 Grok 的提示词。
 
+**管理者 / 整理者**: Yep ([gentpan](https://github.com/gentpan))
+
 ## 🌐 双语支持
 
 所有收录的提示词都经过整理，提供：
