@@ -130,7 +130,7 @@
 
 ## 整理者
 
-**Yep**（[@gentpan](https://github.com/gentpan)）
+[gentpan](https://github.com/gentpan)
 
 - 数据收集与整理
 - 去重与分类
