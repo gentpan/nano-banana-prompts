@@ -1,0 +1,223 @@
+---
+id: imgedify_2616
+category: landscape
+style: vintage
+tags: ["liminal space", "found footage", "forensic surrealism", "CCTV", "paranormal"]
+source: ImgEdify/awesome-nano-banana-pro-prompts
+license: MIT
+---
+
+# LIMINAL_BREAKROOM_INCIDENT - FIELD MANUAL
+
+## 中文
+
+**风景摄影 - 详细型提示词**
+
+这是一个关于 灯光 的 Gemini 图像生成提示词。
+
+**关键特征：**
+- 提示词长度：约 6407 字符
+- 风格分类：风景摄影
+- 标签：liminal space, found footage, forensic surrealism, CCTV, paranormal
+
+**使用说明：**
+这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
+
+---
+
+*完整英文提示词见下方。*
+
+## English
+
+paste this into NBP + reply with what you get
+╔════════════════════════════════════════════════════════════════╗
+║         LIMINAL_BREAKROOM_INCIDENT - FIELD MANUAL              ║
+║              Forensic Surrealist Photography                   ║
+╚════════════════════════════════════════════════════════════════╝
+■ CORE PARAMETERS
+├─ ROLE: Forensic Surrealist Photographer
+├─ OBJECTIVE: Capture 'found footage' still of paranormal thermodynamic event
+└─ CONSTRAINT: Must feel like evidence → prioritize texture & lighting physics over composition
+═══════════════════════════════════════════════════════════════════
+■ CAMERA SYSTEM [SELECT ONE PER CATEGORY]
+│
+├─ TYPE:
+│   ├── Ceiling-mounted CCTV dome
+│   ├── Wall-mounted bullet
+│   ├── Body-worn (detached)
+│   ├── Pinhole covert
+│   └── 360-degree fisheye
+│
+├─ LENS:
+│   ├── Fisheye 12mm
+│   ├── Narrow 50mm
+│   ├── Varifocal stuck at 24mm
+│   └── Pinhole
+│
+├─ QUALITY:
+│   ├── 4K upscale of analog tape
+│   ├── 1080p DVR (blocky compression)
+│   ├── 480p VHS rip
+│   ├── 8mm film scan
+│   └── 1280x1024 security DVR
+│
+├─ PERSPECTIVE:
+│   ├── High-angle 45°
+│   ├── Eye-level (dutch angle)
+│   ├── Corner 60°
+│   ├── Low-angle floor
+│   └── Over-shoulder of shadow
+│
+├─ MANDATORY ARTIFACTS (Apply all):
+│   ├── High ISO grain (6400-12800)
+│   ├── Chromatic aberration (red/cyan split)
+│   └── Motion blur on meal ONLY
+│
+└─ OPTIONAL ARTIFACTS (Select 3-5):
+├── VHS tracking fuzz (5-15% bottom screen)
+├── Interlacing comb lines
+├── Lens dust spots (5-7 ghost orbs)
+├── IR illumination halo
+├── Dropped frames (ghost frames)
+├── Timestamp burn-in (blinking)
+└── Camera ID overlay: 'CAM-04-BREAKROOM-E'
+═══════════════════════════════════════════════════════════════════
+■ LIGHTING ENGINE
+│
+├─ PRIMARY SOURCE [SELECT ONE]:
+│   ├── Overhead fluorescent (4000K, green cast)
+│   ├── Single bulb (2700K, pulsing)
+│   ├── Emergency exit sign red
+│   ├── Microwave clock LED
+│   └── Streetlight orange
+│
+├─ SECONDARY SOURCE (Mandatory):
+│   └── Bioluminescence emitting FROM the meal
+│
+└─ SHADOW BEHAVIOR [SELECT ONE]:
+├── Hard shadows (shape mismatch with objects)
+├── Shadows point TOWARD meal (inverse light)
+├── No shadows (void silhouette effect)
+├── Multiple conflicting shadows
+└── Animating shadows (15fps ghost frames)
+═══════════════════════════════════════════════════════════════════
+■ MATERIAL SHADERS
+│
+├─ TABLE SURFACE:
+│   ├── Faux-wood laminate (peeling edge)
+│   ├── Stainless steel (acid-etched fingerprints)
+│   ├── White plastic (circular burn marks)
+│   └── Particle board (water-swollen)
+│
+├─ FLOOR MATERIAL:
+│   ├── Linoleum (wet reflection pool)
+│   ├── Industrial carpet (stain actively spreading)
+│   ├── Concrete (glowing mold in cracks)
+│   └── Vinyl seams (liquid pooling between planks)
+│
+└─ ATMOSPHERIC VFX:
+├── Dust motes frozen in meal's glow
+├── Condensation droplets on lens
+├── Defiant steam (coiling upward spiral)
+└── Suspended water droplets (zero-G field)
+═══════════════════════════════════════════════════════════════════
+■ ANOMALY CATALOG [SELECT ONE]
+│
+├─ 01. CUBE
+│   └─ Perfect gelatinous cube of unknown meat in styrofoam clamshell.
+│      Subsurface scattering. Vibrating at 120Hz.
+│
+├─ 02. WHISPER_SALAD
+│   └─ Wilted lettuce creating condensation weather system. Miniature fog.
+│      Droplets defy gravity toward ceiling.
+│
+├─ 03. VOID_PIZZA
+│   └─ Pizza slice where pepperoni are holes into infinite darkness.
+│      Vantablack toppings. Cheese sweats neon oil uphill.
+│
+├─ 04. ENTROPY_BURGER
+│   └─ Bun fresh, patty geologically ancient with visible strata.
+│      Sesame seeds orbit like moons.
+│
+├─ 05. MEMORY_SOUP
+│   └─ Styrofoam cup reflects different breakroom in liquid surface.
+│      Shows someone (blurry) watching you.
+│
+├─ 06. TEMPORAL_BANANA
+│   └─ Ripeness cycles every 2 seconds (green→black→green).
+│      Peel is moiré pattern of decay. Emits cicada-buzz compression waves.
+│
+├─ 07. QUANTUM_DONUT
+│   └─ Exists in all states simultaneously. Sprinkles are prime numbers.
+│      Hole is perfect vacuum (bends light).
+│
+├─ 08. GRIEF_YOGURT
+│   └─ Foil lid bulging outward. Reflects viewer's face crying (5-second delay).
+│      Yogurt is arterial blood color.
+│
+├─ 09. CORPORATE_CASSEROLE
+│   └─ Green bean casserole achieved critical biomass. Fried onions are eyes.
+│      Growing fungal dendrites into table.
+│
+└─ 10. INVERTED_MICROWAVE
+└─ Meal inside microwave that is turned inside-out. Magnetron visible & glowing.
+Digital timer counts UP from 00:00.
+═══════════════════════════════════════════════════════════════════
+■ COLOR PALETTE
+│
+├─ BASE COLORS (Background only):
+│   ├── #C8C8B0 │ Sickly Beige
+│   ├── #708090 │ Slate Grey
+│   └── #F0F0F0 │ Dirty White
+│
+├─ ACCENT COLORS (Meal & reflections only):
+│   ├── #39FF14 │ Radioactive Lime
+│   ├── #FF5F1F │ Iodine Orange
+│   ├── #00FFFF │ Cesium Blue
+│   ├── #FF1493 │ Plutonium Pink
+│   ├── #7FFF00 │ Radium Green
+│   └── #FFD700 │ Scopolamine Yellow
+│
+└─ PALETTE RULE:
+Accents appear ONLY on meal and direct reflections.
+May bleed into adjacent shadows. No other color contamination.
+═══════════════════════════════════════════════════════════════════
+■ EXECUTION PIPELINE
+│
+1. CONSTRUCT GEOMETRY
+│   └─ Cold, sterile breakroom. Walls have NO EXIT. Feel of infinite liminal space.
+│
+2. PLACE ANOMALY
+│   └─ Position selected meal at exact center of table. Slightly off-center framing mandatory.
+│
+3. APPLY PHYSICS
+│   └─ Meal affects local environment. Choose one:
+│      ├── Heat shimmer distortion (2ft radius)
+│      ├── Crystalline frost spreading (wrong direction)
+│      ├── Micro gravity field (small objects orbit)
+│      └── Phase ghost (meal exists 0.5sec in future)
+│
+4. LIGHTING PASS
+│   └─ Fluorescent flickers at 60Hz, struggles against meal's bioluminescence.
+│      Glow must cast its own shadows (physics violation).
+│
+5. TEXT ELEMENT
+│   └─ Add one environmental text layer:
+│      ├── 'SAFETY NOTICE' poster (peeling, words morph when read)
+│      ├── 'MONDAY MEETING' whiteboard (equations cause headache)
+│      └── OSHA violation notice (dated TOMORROW)
+│
+6. FINAL DEGRADATION PASS
+│   └─ Apply selected CCTV compression artifacts.
+│      Timestamp must be 03:17:22 (blinking).
+│      Add mandatory film grain & chromatic aberration.
+│
+└─ RENDER OUTPUT: 4:3 aspect ratio. 300 DPI if printed.
+Must pass as real security footage to HR department.
+═══════════════════════════════════════════════════════════════════
+
+---
+
+**整理：** Yep（[gentpan](https://github.com/gentpan)）  
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/promptprincess/status/1998812800685334545)  
+**许可：** MIT

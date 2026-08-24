@@ -1,0 +1,98 @@
+---
+id: imgedify_5660
+category: product
+style: 3d
+tags: ["parametric design", "metallic silk", "product showcase", "3D render", "abstract luxury"]
+source: ImgEdify/awesome-nano-banana-pro-prompts
+license: MIT
+---
+
+# Nano Banana Pro Chrome Ripple Flow  Prompt 👇  {   "image_generation_request": {     "subject": "[PR
+
+## 中文
+
+**产品摄影 - 详细型提示词**
+
+这是一个关于 超写实、影棚拍摄、灯光 的 Gemini 图像生成提示词。
+
+**关键特征：**
+- 提示词长度：约 5090 字符
+- 风格分类：产品摄影
+- 标签：parametric design, metallic silk, product showcase, 3D render, abstract luxury
+
+**使用说明：**
+这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
+
+---
+
+*完整英文提示词见下方。*
+
+## English
+
+{
+  "image_generation_request": {
+    "subject": "[PRODUCT]",
+    "product_finish": {
+      "primary": "matte black with subtle light absorption",
+      "secondary": "polished metallic silver with mirror-like reflections",
+      "treatment": "duotone — matte black body with metallic silver accents, trim, edges, or panel insets"
+    },
+    "composition": {
+      "placement": "dead center, full view, floating suspended within the folded surface environment",
+      "scale": "product occupies roughly 30-40% of the frame",
+      "constraints": [
+        "product must be entirely visible with no cropping",
+        "no pedestals, stands, platforms, or ground planes",
+        "the surface folds frame the product but never obscure more than 10% of it",
+        "product is the sharpest element in the scene"
+      ]
+    },
+    "background_environment": {
+      "description": "A single continuous undulating surface that fills the entire frame, folding over and around itself in large voluminous waves — like a massive sheet of pleated metallic silk or a single machined metal panel that has been softly twisted and draped. This is NOT multiple separate ribbons or strands. It is ONE connected surface.",
+      "base_color": "[INSERT DEEP BACKGROUND COLOR visible in crevices — e.g. pure black, midnight navy]",
+      "surface_color_1": "[INSERT GRADIENT COLOR A — e.g. soft lavender, warm copper, pearl rose]",
+      "surface_color_2": "[INSERT GRADIENT COLOR B — e.g. deep indigo, cobalt blue, violet]",
+      "color_behavior": "The two colors blend in a smooth continuous gradient across the single surface, shifting based on the surface's curvature and light angle. Where the surface faces the light it shows color_1, where it curves away it transitions to color_2. The transition is seamless with no hard edges or stripes.",
+      "surface_texture": {
+        "type": "fine parallel ribs embossed into the surface — like the grooves on a vinyl record or finely pleated accordion fabric",
+        "rib_description": "extremely fine, uniform, tightly spaced parallel lines that follow the flow direction of the surface. The ribs are a TEXTURE on the surface, not separate objects. They create a subtle corrugated micro-relief that catches light along each tiny ridge.",
+        "rib_density": "very high — approximately 50-100 visible lines per inch of surface, creating a dense linear grain",
+        "rib_depth": "shallow — the ribs are subtle surface detail, not deep cuts. They create gentle highlight-shadow alternation across the surface"
+      },
+      "surface_form": {
+        "fold_style": "large, smooth, voluminous folds like draped heavy silk — broad sweeping curves with gentle twists",
+        "fold_count": "3-5 major folds visible, each one wide and generous, NOT many small tangled ribbons",
+        "fold_behavior": "folds overlap softly, tucking under and over each other with smooth transitions. Where folds meet they create deep soft shadow crevices",
+        "tension": "the surface appears smooth and taut across each fold, with no wrinkles or crumpling — like stretched satin over a curved form",
+        "edges": "no visible edges — the surface appears to extend beyond the frame in all directions, as if we are seeing a close-up section of an infinite draped form"
+      },
+      "material": {
+        "finish": "satin metallic — a soft brushed-metal luminosity between matte and mirror. The surface has a pearlescent quality where colors shift with viewing angle",
+        "light_interaction": "soft specular highlights along the crest of each rib, gentle shadows in each rib valley, creating an overall shimmering linear texture across the broad folds"
+      }
+    },
+    "lighting": {
+      "type": "soft, diffused, directional — as if a large softbox is illuminating from upper-left, creating a warm-to-cool gradient across the scene",
+      "shadow_behavior": "deep soft shadows in fold crevices, gradual falloff — no harsh edges",
+      "highlight_behavior": "broad soft highlights across fold peaks, with fine linear shimmer from the rib texture",
+      "restrictions": "no visible light sources, no lens flare, no reflections of studio equipment"
+    },
+    "style": {
+      "aesthetic": "parametric design art, computational sculpture, abstract luxury",
+      "mood": "luxurious, smooth, tactile, premium product showcase",
+      "critical_note": "The background must look like a SINGLE continuous folded metallic surface with fine ribbed texture — NOT like multiple separate ribbons, cables, wires, or strands bundled together. Think of one sheet of finely pleated metal that has been elegantly draped and folded."
+    },
+    "technical_specs": {
+      "quality": "8k resolution, extreme surface texture detail, tack-sharp product focus",
+      "render_style": "photorealistic 3D render, Octane or Redshift quality",
+      "aspect_ratio": "1:1 square",
+      "exclusions": "text, watermarks, logos on background, extra props, lens flare, studio equipment, flat surfaces, any ground plane, separate ribbons, wire bundles, rope-like forms"
+    }
+  }
+}
+
+---
+
+**整理：** Yep（[gentpan](https://github.com/gentpan)）  
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/lloydcreates/status/2021984673216209395)  
+**许可：** MIT
