@@ -2,6 +2,8 @@
 
 本文档定义了 `nano-banana-prompts` 仓库的数据结构和文件组织规范。
 
+**管理者 / 整理者**: [gentpan](https://github.com/gentpan)
+
 ## 目录结构
 
 ```
@@ -53,7 +55,7 @@ nano-banana-prompts/
   "source_url": "原始链接",
   "source_license": "许可证类型",
   "organizer": {
-    "name": "Yep",
+    "name": "gentpan",
     "github": "gentpan",
     "note": "整理"
   }
@@ -80,7 +82,7 @@ source_repo: 来源仓库名
 source_url: 来源链接
 source_license: 许可证
 organizer:
-  name: Yep
+  name: gentpan
   github: gentpan
 ---
 
@@ -98,7 +100,7 @@ English prompt content (wrapped in code block)
 
 ---
 
-**整理：** Yep（[gentpan](https://github.com/gentpan)）  
+**整理：** [gentpan](https://github.com/gentpan)  
 **来源：** [仓库名](链接)
 ```
 
@@ -192,5 +194,5 @@ English prompt content (wrapped in code block)
 
 ---
 
-**维护者：** Yep（[@gentpan](https://github.com/gentpan)）  
+**维护者：** [gentpan](https://github.com/gentpan)  
 **最后更新：** 2026-08-24

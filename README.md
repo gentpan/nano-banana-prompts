@@ -4,9 +4,11 @@
 
 ## 📖 简介
 
-这是一个精心整理的 **Nano Banana**（Google Gemini 图像生成）提示词集合，由 [Yep](https://github.com/gentpan) 维护。
+这是一个精心整理的 **Nano Banana**（Google Gemini 图像生成）提示词集合，由 [gentpan](https://github.com/gentpan) 维护。
 
 本项目专注于 **Google Gemini 的图像生成功能**，不包含 GPT Image 2 或 Grok 的提示词。
+
+**管理者 / 整理者**: [gentpan](https://github.com/gentpan)
 
 ## 🌐 双语支持
 
@@ -90,7 +92,7 @@ nano-banana-prompts/
 
 ## 👤 整理者
 
-**Yep**（[@gentpan](https://github.com/gentpan)）
+[gentpan](https://github.com/gentpan)
 
 ## ⭐ 使用方法
 

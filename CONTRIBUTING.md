@@ -2,6 +2,8 @@
 
 感谢你对 Nano Banana Prompts 项目的关注！
 
+**管理者 / 整理者**: [gentpan](https://github.com/gentpan)
+
 ## 数据格式
 
 ### JSONL 记录结构
@@ -23,7 +25,7 @@
   "source_url": "原始链接",
   "source_license": "许可证类型",
   "organizer": {
-    "name": "Yep",
+    "name": "gentpan",
     "github": "gentpan",
     "note": "整理"
   }
