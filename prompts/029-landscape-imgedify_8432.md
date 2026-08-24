@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# A random scene from a random punk style generated using Nano banana pro. A brief description of the 
+# A random scene from a random punk style generated using Nano banana pro. A br...
 
 ## 中文
 
-**风景摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、电影感、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 5630 字符
-- 风格分类：风景摄影
-- 标签：Punk aesthetic, World building, Cinematic scene, Photorealistic, Environment generator
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 5630 字符。
 
 *完整英文提示词见下方。*
 
@@ -198,5 +188,4 @@ The plaque should appear as a **natural artifact of the world rather than a mode
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/artingent/status/2030715468617765008)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/artingent/status/2030715468617765008)

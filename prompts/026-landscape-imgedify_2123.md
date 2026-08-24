@@ -7,32 +7,21 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# 女儿与长颈鹿梦幻乐园
-
+# Landscape Prompt #026
 ## 中文
 
-**风景摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 7964 字符
-- 风格分类：风景摄影
-- 标签：children's illustration, miniature toy landscape, giraffe, panoramic banner, 3D title
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 7811 字符。
 
 *完整英文提示词见下方。*
 
 ## English
 
-女儿之前通过认知卡片认识了长颈鹿，今天上班前追着问我要看长颈鹿，答应回家给她看，大家看OK否😊
-技巧分享：提示词（分两部分：全局+可配置区）：
-只需要自定义可配置区，或者让AI协助你生成不同风格的可配置区（这次把主题、场景、风格、色彩、物件、氛围基调等，都抽到可配置区了，可玩度非常高，欢迎评论区交作业）
-具体提示词如下：
+OK
++
+AI
+
 **[Global Generation Prompt]**
 A visually vivid and content-rich children's illustration themed “[SCENE_THEME],” rendered in a wide panoramic banner format (21:9 aspect ratio), depicting an exceptionally detailed miniature toy landscape. The entire scene is executed in [ART_STYLE], resembling an enormous, meticulously arranged physical miniature toy world. Lighting is bright, warm, and pure, enhanced with subtle volumetric lighting effects to create an unparalleled sense of comfort, healing, and tactile tangibility.
 **I. Scene Atmosphere**
@@ -103,5 +92,4 @@ Afternoon sunlight filters through the pink-purple sky canopy, bathing the entir
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/LufzzLiz/status/1998332432932847684)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/LufzzLiz/status/1998332432932847684)

@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# New Prompt, same vibe😎 --- Nano Banana Pro | Prompt: {   "core_meta": {     "image_type": "Commerci
+# New Prompt, same vibe --- Nano Banana Pro | Prompt: {   "core_meta": {     "i...
 
 ## 中文
 
-**产品摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 影棚拍摄、时尚、肖像、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 8715 字符
-- 风格分类：产品摄影
-- 标签：Fashion Photography, Lingerie Campaign, High-Key Lighting, 85mm Lens, Octane Render
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 8715 字符。
 
 *完整英文提示词见下方。*
 
@@ -255,5 +245,4 @@ Nano Banana Pro | Prompt:
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/XSydneyFan/status/2044457611513499992)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/XSydneyFan/status/2044457611513499992)

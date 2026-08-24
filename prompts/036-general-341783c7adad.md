@@ -8,23 +8,13 @@ license: CC BY 4.0
 ---
 
 # {
-  "overall_style": "Moody cinematic fashion portrait photography, high-end edi...
+  "overall_style": "Moody cinematic fashion portrait photography, high-end ...
 
 ## 中文
 
-**通用场景 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 电影感、时尚、肖像、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 3055 字符
-- 风格分类：通用场景
-- 标签：
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 3055 字符。
 
 *完整英文提示词见下方。*
 
@@ -65,5 +55,4 @@ license: CC BY 4.0
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)  
-**许可：** CC BY 4.0
+**来源：** [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)

@@ -36,6 +36,46 @@
 - **数据来源**：README.md
 - **说明**：内容管理系统导出的提示词，部分内容受 CC BY 4.0 许可
 
+### 5. JimmyLv/awesome-nano-banana
+
+- **仓库**：https://github.com/JimmyLv/awesome-nano-banana
+- **许可证**：CC BY 4.0
+- **收录数量**：99 条
+- **数据来源**：README.md
+- **说明**：精选的 Gemini 2.5 Flash Image（Nano Banana）生成图像和提示词集合
+
+### 6. ZeroLu/awesome-nanobanana-pro（原 ZeroLu/awesome-nanobanana-pro）
+
+- **仓库**：https://github.com/ZeroLu/awesome-nanobanana-pro
+- **许可证**：MIT
+- **收录数量**：73 条（新增）
+- **数据来源**：README.md
+- **说明**：策划的 Nano Banana Pro 提示词资源
+
+### 7. EvoLinkAI/Awesome-Nano-Banana-2-prompt
+
+- **仓库**：https://github.com/EvoLinkAI/Awesome-Nano-Banana-2-prompt
+- **许可证**：MIT
+- **收录数量**：72 条
+- **数据来源**：README.md
+- **说明**：100+ 高质量 Nano Banana 2 提示词集合
+
+### 8. Transcendo/awesome-nanobanana-prompts
+
+- **仓库**：https://github.com/Transcendo/awesome-nanobanana-prompts
+- **许可证**：MIT
+- **收录数量**：51 条
+- **数据来源**：README.md
+- **说明**：Nano Banana / Nano Banana Pro 精选提示词库
+
+### 9. akirakai/awesome-nano-banana
+
+- **仓库**：https://github.com/akirakai/awesome-nano-banana
+- **许可证**：MIT
+- **收录数量**：1 条
+- **数据来源**：README.md
+- **说明**：Gemini Nano Banana 用例、提示词和来源精选列表
+
 ## 数据处理
 
 ### 去重逻辑
@@ -55,11 +95,13 @@
 
 | 分类 | 数量 | 说明 |
 |------|------|------|
-| Portrait（人像） | ~3,200 | 人物肖像、时尚摄影等 |
-| Product（产品） | ~1,800 | 产品摄影、商业拍摄等 |
-| Landscape（风景） | ~1,500 | 自然风景、建筑摄影等 |
-| General（通用） | ~2,476 | 其他类型 |
-| **总计** | **8,976** | 去重后总数 |
+| Portrait（人像） | ~3,990 | 人物肖像、时尚摄影等 |
+| Product（产品） | ~1,100 | 产品摄影、商业拍摄等 |
+| Character（角色） | ~900 | 角色设计、插画等 |
+| Landscape（风景） | ~560 | 自然风景、建筑摄影等 |
+| General（通用） | ~500 | 其他类型 |
+| 其他分类 | ~2,149 | 食物、抽象、建筑等 |
+| **总计** | **9,199** | 去重后总数 |
 
 ## 许可证说明
 
@@ -97,7 +139,16 @@
 
 ## 更新日志
 
-### 2026-08-24
+### 2026-08-24（更新 2）
+
+- 🔍 扩展 GitHub 搜索，新增 5 个来源仓库
+- 📊 总提示词数增至 9,199 条
+- 🧹 清理所有精选 markdown 文件：去除 emoji、闲聊内容
+- 🌐 确保中英双语：英文提示词配中文概述，中文配英文概述
+- 📝 日文/韩文提示词提供双语说明
+- ✨ 简化 YAML 和 footer 格式
+
+### 2026-08-24（初始）
 
 - 🎉 初始版本发布
 - 📊 收录 8,976 条提示词

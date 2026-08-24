@@ -7,38 +7,24 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# 全球比心：跨越时空的爱的桥梁
-
+# Landscape Prompt #025
 ## 中文
 
-**风景摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、电影感、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 8333 字符
-- 风格分类：风景摄影
-- 标签：cinematic night lighting, hyper-realistic photographic style, 8K ultra-high-definition, connection across distance, synchronized hearts
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 8241 字符。
 
 *完整英文提示词见下方。*
 
 ## English
 
-哈哈，受宝玉这个启发做了些不一样的东西：
-依次是：跨地域比心💗（异地恋的可以试试）、高考考场与德玛握手、爱因斯坦与三体人互动、国足助攻上帝之手😂
-提示词以跨地域比心为例：
-【Global Definitions】
+Global Definitions
 --ar 16:9 --style raw --v 6.0 --quality 2 --no cartoon, drawing, illustration, text, logo, watermark
 [Framing & Style]: 8K ultra-high-definition cinematic widescreen image, hyper-realistic photographic style, cinematic night lighting with HDR (high dynamic range). Emphasis on material textures (fabrics, glass, metal, skin translucency), environmental reflections (wet pavement reflections, screen glare), and low-noise high-ISO imaging.
 [Atmosphere & Mood]: Amid the bustling energy of a sleepless metropolis lies an intimate tenderness—technology and human emotion seamlessly intertwined, surreal yet grounded in realism.
 [Core Imagery]: Two individuals in distant corners of the globe are poetically connected through digital media (e.g., video call), visually and emotionally bridging physical separation to emphasize “connection across distance” and “synchronized hearts.”
 [Prohibited Elements]: No cartoons, illustrations, text, watermarks, brand logos (except inherent architectural identifiers of landmarks), or excessive filters.
-【Variable Definitions】
+Variable Definitions
 A 16:9 cinematic night scene depicting a couple separated by geography but united in spirit:
 She is at [Location A | Chinese Urban Landmark], wearing [Outfit A], holding or accompanied by [Object A], situated within [Scene Detail A];
 He is at [Location B | American Urban Landmark], wearing [Outfit B], holding or accompanied by [Object B], situated within [Scene Detail B].
@@ -56,7 +42,7 @@ Overall color grading:
 Left side leans toward [Tone A]
 Right side leans toward [Tone B]
 Unified visually and emotionally through [Shared Light Source / Emotional Anchor].
-【Example Definition】
+Example Definition
 [Location A | Chinese Urban Landmark]: The Bund riverside promenade, Shanghai
 [Outfit A]: Cream-white turtleneck sweater + camel overcoat
 [Object A]: Hot milk tea, closed travel journal, AirPods
@@ -105,5 +91,4 @@ Though ground-level lighting diverges dramatically (left: cool blue-violet; righ
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/LufzzLiz/status/1998370777385812293)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/LufzzLiz/status/1998370777385812293)

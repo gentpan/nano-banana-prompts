@@ -7,52 +7,42 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# 东方琉璃与现代信息图混血：3D环形展示墙的东方美学之旅
+# 3D
 
 ## 中文
 
-**产品摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 电影感、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 4999 字符
-- 风格分类：产品摄影
-- 标签：3D ecosystem, Liuli, Silk Ribbons, multi-ring concentric layout, Colored Glaze
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 4627 字符。
 
 *完整英文提示词见下方。*
 
 ## English
 
-火了（1万+浏览）
-核心结构其实很简单：中心方块 + 内环 + 外环。
-但我发现：改材质和连接方式，风格直接换血。
-我试了两个完全不同的方向👇 https://t.co/Kdc9lbDZcF
-把亚克力换成琉璃（Liuli），矿物宝石质感
-把连接线换成3D丝绸飘带，物理穿梭
-背景换成沙丘纹理 + 暖金渐变
-出来就是敦煌壁画 × 现代信息图的混血。
-适合：文化IP/国风品牌/博物馆展览 https://t.co/DzEvsJ7tqt
-把方块换成高折射率水晶，内部悬浮真实物质（花瓣、气泡、金箔）
-加入 Caustic 光影（彩虹焦散效果）
-背景换成珍珠白 + 丝绸水波
-出来就是 Vogue 美妆大片的感觉。
-适合：护肤品成分图/奢侈品生态/高端产品线 https://t.co/gLz1K8N5J8
-拆出来的迁移公式：
-[多层环形] × [主题材质] × [情绪氛围]
-结构不变，换材质+连接+背景，风格直接换血。
-你觉得哪个版本更有商业价值？
-🏛️ V1 东方琉璃（文化IP/国风品牌）
-💎 V2 奢美水晶（美妆/奢侈品）
-评论区告诉我，顺便说说理由——
-完整 Prompt 也放评论区了，自取👇 https://t.co/1KAVMHC9gf
-秒评 1：V1 东方琉璃版
-📌 Silk Road Heritage Prompt：
+1+
+ +  + 
+
+ https://t.co/Kdc9lbDZcF
+Liuli
+3D
+ + 
+ × 
+IP// https://t.co/DzEvsJ7tqt
+
+ Caustic 
+ + 
+ Vogue 
+// https://t.co/gLz1K8N5J8
+
+[] × [] × []
+++
+
+ V1 IP/
+ V2 /
+——
+ Prompt  https://t.co/1KAVMHC9gf
+ 1V1 
+ Silk Road Heritage Prompt
 3D ecosystem showcase wall with hierarchical multi-ring concentric layout design:
 CENTER LAYER (Largest focal Glazed Block):
 - One large, translucent "Liuli" (Colored Glaze) cube in deep Mineral Blue and Gold
@@ -88,9 +78,9 @@ BACKGROUND DESIGN WITH WATERMARK:
 - Watermark style: 4% opacity, ancient pattern
 - Watermark pattern: Pattern A (Flowing wind lines)
 - Effect: Epic scale, highly artistic
-适合文化IP/国风品牌/博物馆展
-秒评 2：V2 奢美水晶版
-📌 Liquid Luxury Prompt
+IP//
+ 2V2 
+ Liquid Luxury Prompt
 3D ecosystem showcase wall with hierarchical multi-ring concentric layout design:
 CENTER LAYER (Largest focal crystal block):
 - One large, pristine crystal block with beveled diamond-cut edges
@@ -129,10 +119,9 @@ BACKGROUND DESIGN WITH WATERMARK:
 - Effect: Enhances the "Liquid" feeling, making the hard cubes feel soft and floating
 OPTIONAL CONNECTION:
 - Use thin "gold threads" or "flowing water streams" connecting the inner ingredients to the center core.
-适合美妆成分图/奢侈品生态/高端产品
+//
 
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/yinlin66/thread/1998570443926811012)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/yinlin66/thread/1998570443926811012)

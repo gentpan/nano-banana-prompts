@@ -7,86 +7,49 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# Nano Banana Proフィギュア製品紹介
+# Nano Banana Pro
 
 ## 中文
 
-**产品摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、影棚拍摄、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 5083 字符
-- 风格分类：产品摄影
-- 标签：フィギュア製品紹介風, Nano Banana Pro, 1/7スケール, レイアウトプロンプト, 商品名ロゴ
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 4225 字符。
 
 *完整英文提示词见下方。*
 
 ## English
 
-Nano Banana Proで遊ぼう
-【フィギュア製品紹介風
-レイアウトプロンプト　多言語対応版】
-⠀
-参照画像のキャラクターをフィギュア化して、製品紹介風にレイアウトするプロンプトを表示言語を『日・英・独・仏』の4言語から選択して生成できるようにしました。
-⠀
-⚠️必ず最後までお読みください。
-※Nano Banana Pro専用のプロンプトです。
-※プロンプトの無断転載は禁止します。
-⠀
-◆概要
-・表示言語（language）
-『日・英・独・仏』の4言語から選択できます。
-⠀
-・商品名（product_name）
-・メーカー名（manufacturer_name）
-それぞれ任意の文字列を指定できます。
-商品名ロゴ：
-商品名の文字列と参照画像の雰囲気から推論します。
-メーカーロゴ：
-メーカー名の文字列から推論します。
-※表示言語に翻訳されることがあります。
-⠀
-・サイズ
-キャラクターの体型と1/7スケール設定から推論した全高をセンチメートル表記で表示します。
-⠀
-・材質
-フィギュアとして妥当な材質を推論して表示します。
-⠀
-・価格
-フィギュアのスケール、造形密度、塗装表現から推論します。
-⠀
-・部分拡大図
-拡大図には、それぞれ異なる部位または特徴について説明する日本語キャプションを付与します。
-⠀
-◆使い方
-・表示言語（language）
-下記の『""』内を例に倣って書き換えてください。
+Nano Banana Pro
+
+4
+
+※Nano Banana Pro
+※
+
+language
+4
+
+product_name
+manufacturer_name
+
+※
+
+1/7
+
+language
+""
 language: "ja"
 ja : Japanese
 en : English
 de : German
 fr : French
-・商品名（product_name）
-・メーカー名（manufacturer_name）
-それぞれ下記の『""』内を任意の文字列に書き換えてください。
-メーカー名は「Sculptor / Production」にも反映されます。
+product_name
+manufacturer_name
+""
+Sculptor / Production
 product_name: "{ARBITRARY_PRODUCT_NAME}"
 manufacturer_name: "{ARBITRARY_MANUFACTURER_NAME}"
-⠀
-⚠️プロンプト使用上の注意⚠️
-本プロンプトには、特定の作品名・作者名・キャラクター名等は一切含まれていませんが、生成モデルの内部処理や学習データに起因する連想まではコントロールできないため、結果として既存作品のキャラクター・商標・ブランドロゴ等に類似または該当する画像が生成される可能性があります。
-⠀
-生成された画像の利用・公開にあたっては、十分ご注意ください。
-⠀
-なお、本プロンプトの利用により生成された一切の成果物およびそれに起因するトラブル・損害等について、当方は一切の責任を負いかねます。ご自身の責任と判断においてご利用ください。
-⠀
-◆プロンプト（全文をコピペしてください）
+
 language: "ja"
 # Supported values:
 # - ja : Japanese
@@ -190,5 +153,4 @@ Professional collectible figure product presentation.
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/munou_ac/status/2004408308850217043)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/munou_ac/status/2004408308850217043)

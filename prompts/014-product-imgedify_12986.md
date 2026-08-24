@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# Prompt:    (access Nano Banana 2 here: https://t.co/fVqOq1C1pU)  [BRAND NAME]  Act as a Macro Produc
+# Prompt:    (access Nano Banana 2 here: https://t.co/fVqOq1C1pU)  [BRAND NAME]...
 
 ## 中文
 
-**产品摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 影棚拍摄、肖像、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 8306 字符
-- 风格分类：产品摄影
-- 标签：macro photography, embroidery detail, textile texture, waffle-knit fabric, editorial campaign
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 8306 字符。
 
 *完整英文提示词见下方。*
 
@@ -66,5 +56,4 @@ Render: Octane Render or Redshift with fiber/textile displacement geometry. Thre
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/AmirMushich/status/2044829428513931398)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/AmirMushich/status/2044829428513931398)

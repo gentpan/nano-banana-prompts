@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# GPT Image 2 (left) vs Nano Banana 2 (right)  Prompt: {   "meta": {     "image_quality": "Very High",
+# GPT Image 2 (left) vs Nano Banana 2 (right)  Prompt: {   "meta": {     "image...
 
 ## 中文
 
-**人像摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 10026 字符
-- 风格分类：人像摄影
-- 标签：blonde woman, outdoor cafe, striped sweater, cinematic lighting, photorealistic
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 10026 字符。
 
 *完整英文提示词见下方。*
 
@@ -362,5 +352,4 @@ license: MIT
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/rovvmut_/status/2046618453562609975)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/rovvmut_/status/2046618453562609975)

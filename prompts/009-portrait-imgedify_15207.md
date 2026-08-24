@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# I wonder which country the girl will be rooting for to win the #WorldCup in the summer? Do you know 
+# I wonder which country the girl will be rooting for to win the #WorldCup in t...
 
 ## 中文
 
-**人像摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、电影感、时尚、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 9454 字符
-- 风格分类：人像摄影
-- 标签：Canadian pride, Automotive Photography, Cyber-Noir, High-fashion, Editorial
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 9454 字符。
 
 *完整英文提示词见下方。*
 
@@ -193,5 +183,4 @@ license: MIT
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/iamdomprompt/status/2047750806061957307)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/iamdomprompt/status/2047750806061957307)

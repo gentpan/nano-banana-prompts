@@ -30,9 +30,9 @@
 
 ## 📊 数据统计
 
-- **总提示词数**：8,976 条
+- **总提示词数**：9,199 条
 - **精选示例**：40 个双语 Markdown 文件
-- **主要来源**：ImgEdify（8,485 条）+ 其他社区贡献（491 条）
+- **主要来源**：ImgEdify（8,485 条）+ 其他社区贡献（714 条）
 - **已过滤**：NSFW 内容，重复提示词
 
 ## 📝 贡献指南
@@ -45,10 +45,14 @@
 
 主要来源包括：
 
-1. **ImgEdify/awesome-nano-banana-pro-prompts**（MIT）
-2. **ZeroLu/awesome-nanobanana-pro**（MIT）
-3. **Banana-Prompts/awesome-nano-banana-prompts**（MIT）
-4. **YouMind-OpenLab/awesome-nano-banana-pro-prompts**（CC BY 4.0）
+1. **ImgEdify/awesome-nano-banana-pro-prompts**（MIT）- 8,485 条
+2. **Banana-Prompts/awesome-nano-banana-prompts**（MIT）- 292 条
+3. **YouMind-OpenLab/awesome-nano-banana-pro-prompts**（CC BY 4.0）- 126 条
+4. **JimmyLv/awesome-nano-banana**（CC BY 4.0）- 99 条
+5. **ZeroLu/awesome-nanobanana-pro**（MIT）- 73 条
+6. **EvoLinkAI/Awesome-Nano-Banana-2-prompt**（MIT）- 72 条
+7. **Transcendo/awesome-nanobanana-prompts**（MIT）- 51 条
+8. **akirakai/awesome-nano-banana**（MIT）- 1 条
 
 ## 📄 许可证
 

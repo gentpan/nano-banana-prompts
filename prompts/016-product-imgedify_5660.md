@@ -7,23 +7,13 @@ source: ImgEdify/awesome-nano-banana-pro-prompts
 license: MIT
 ---
 
-# Nano Banana Pro Chrome Ripple Flow  Prompt 👇  {   "image_generation_request": {     "subject": "[PR
+# Nano Banana Pro Chrome Ripple Flow  Prompt   {   "image_generation_request": ...
 
 ## 中文
 
-**产品摄影 - 详细型提示词**
+**专业图像生成提示词（详细型）**
 
-这是一个关于 超写实、影棚拍摄、灯光 的 Gemini 图像生成提示词。
-
-**关键特征：**
-- 提示词长度：约 5090 字符
-- 风格分类：产品摄影
-- 标签：parametric design, metallic silk, product showcase, 3D render, abstract luxury
-
-**使用说明：**
-这个提示词设计用于 Google Gemini 的图像生成功能（Nano Banana），可以直接复制使用或根据需求调整参数。
-
----
+这是用于 Google Gemini 图像生成的提示词，长度约 5090 字符。
 
 *完整英文提示词见下方。*
 
@@ -94,5 +84,4 @@ license: MIT
 ---
 
 **整理：** Yep（[gentpan](https://github.com/gentpan)）  
-**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/lloydcreates/status/2021984673216209395)  
-**许可：** MIT
+**来源：** [ImgEdify/awesome-nano-banana-pro-prompts](https://x.com/lloydcreates/status/2021984673216209395)
